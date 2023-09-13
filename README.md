@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sunit Kalpana Dhopte</h1>
 <h3 align="center">A passionate frontend developer from India. In a day-night shifting wave of getting hands on Python,Javascript and many more.</h3>
 
-- 🔭 I’m currently working on **Face and signature verification.**
+- 🔭 I’m currently working on **Face Recognition And Anti-Spoofing.**
 
 - 🌱 I’m currently learning **Advanced Python in Machine Learning and Data Science.**
 
-- 💬 Ask me about **Html, CSS**
+- 💬 Ask me about **Html, CSS, JavaScript**
 
 - 📫 How to reach me **sunitdhopte22@gmail.com**
 
