@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sunit Kalpana Dhopte</h1>
 <h3 align="center">A passionate frontend developer from India. In a day-night shifting wave of getting hands on Python,Javascript and many more.</h3>
 
-- 🔭 I’m currently working on **Crop Disease Detection Recommender System And Research Paper.**
+- 🔭 I’m currently working on **AI Assisted Archeological Script Analysis System And Research Paper.**
 
 - 🌱 I’m currently learning **Advanced Python in Machine Learning and Data Science.**
 
-- 💬 Ask me about **Html, CSS, JavaScript**
+- 💬 Ask me about **Html, CSS, Computer Vision**
 
 - 📫 How to reach me **sunitdhopte22@gmail.com**
 
